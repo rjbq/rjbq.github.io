@@ -19,9 +19,3 @@
   vertical-align: middle;
 }
 ```
-
-## Miscellaneous
-### credit
-- zhihu.com
-- particles.js
-- google fonts

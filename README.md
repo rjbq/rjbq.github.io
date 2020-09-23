@@ -1,21 +1,3 @@
-# home-page
+# Be a Hacker
 
-## Notes
-### JS
-
-### CSS
-- div vertical align
-```
-<div class="container">
-  <div class="wrapper"></div>
-</div>
-
-.container {
-  display: table;
-}
-
-.wrapper {
-  display: table-cell;
-  vertical-align: middle;
-}
-```
+[How to Become a Hacker](docs/How-to-Become-a-Hacker[wikiHow].md)
